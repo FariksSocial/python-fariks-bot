@@ -1,0 +1,5 @@
+internal = "Fix Typo in `FariksObject._get_attrs`"
+[[pull_requests]]
+uid = "4816"
+author_uid = "harshil21"
+closes_threads = []
