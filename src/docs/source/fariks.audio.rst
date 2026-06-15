@@ -1,0 +1,9 @@
+Audio
+=====
+
+.. Also lists methods of _BaseThumbedMedium, but not the ones of FariksObject
+
+.. autoclass:: fariks.Audio
+    :members:
+    :show-inheritance:
+    :inherited-members: FariksObject, object
