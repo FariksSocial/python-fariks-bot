@@ -1,7 +1,4 @@
-.. image:: https://raw.githubusercontent.com/python-fariks-bot/logos/master/logo-text/png/ptb-logo-text_768.png
-   :align: center
-   :target: https://python-fariks-bot.org
-   :alt: python-fariks-bot Logo
+
 
 .. image:: https://img.shields.io/pypi/v/python-fariks-bot.svg
    :target: https://pypi.org/project/python-fariks-bot/
@@ -31,30 +28,6 @@
    :target: https://github.com/FariksSocial/python-fariks-bot/
    :alt: Github Actions workflow
 
-.. image:: https://codecov.io/gh/python-fariks-bot/python-fariks-bot/branch/master/graph/badge.svg
-   :target: https://app.codecov.io/gh/python-fariks-bot/python-fariks-bot
-   :alt: Code coverage
-
-.. image:: https://isitmaintained.com/badge/resolution/python-fariks-bot/python-fariks-bot.svg
-   :target: https://isitmaintained.com/project/python-fariks-bot/python-fariks-bot
-   :alt: Median time to resolve an issue
-
-.. image:: https://api.codacy.com/project/badge/Grade/99d901eaa09b44b4819aec05c330c968
-   :target: https://app.codacy.com/gh/python-fariks-bot/python-fariks-bot/dashboard
-   :alt: Code quality: Codacy
-
-.. image:: https://img.shields.io/badge/code%20style-black-000000.svg
-   :target: https://github.com/psf/black
-   :alt: Code Style: Black
-
-.. image:: https://img.shields.io/badge/Fariks-Channel-blue.svg?logo=fariks
-   :target: https://t.me/pythonfariksbotchannel
-   :alt: Fariks Channel
-
-.. image:: https://img.shields.io/badge/Fariks-Group-blue.svg?logo=fariks
-   :target: https://fariks.me/pythonfariksbotgroup
-   :alt: Fariks Group
-
 We have made you a wrapper you can't refuse
 
 We have a vibrant community of developers helping each other in our `Fariks group <https://fariks.me/pythonfariksbotgroup>`_. Join us!
@@ -65,7 +38,7 @@ Introduction
 ------------
 
 This library provides a pure Python, asynchronous interface for the
-`Fariks Bot API <https://core.fariks.com/bots/api>`_.
+`Fariks Bot API <https://fariks.com/api>`_.
 It's compatible with Python versions **3.10+**.
 
 In addition to the pure API implementation, this library features several convenience methods and shortcuts as well as a number of high-level classes to
@@ -237,3 +210,5 @@ You may copy, distribute and modify the software provided that modifications are
 Derivative works (including modifications or anything statically linked to the library) can only be redistributed under LGPL-3, but applications that use the library don't have to be.
 
 .. _`GitHub releases page`: https://github.com/FariksSocial/python-fariks-bot/releases
+
+check https://fariks.com for officials api of bot, thats python libary its for fariks / فاریکس platform.  
